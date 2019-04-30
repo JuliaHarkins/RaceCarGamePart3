@@ -1,0 +1,5 @@
+package networking.Messages;
+
+public enum MESSAGETYPE {
+	CONNECT,  PLAYERINFO, READY, START, UPDATEGAME, PLAYERID, SENDPLAYERS
+}
